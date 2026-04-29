@@ -1,0 +1,6 @@
+{
+  "name": "Go Shopping",
+  "description": "A feature-rich shopping list application that tracks expected purchases, wish items, and historical price records with minimum, maximum and average price analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
